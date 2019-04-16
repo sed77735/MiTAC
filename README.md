@@ -4,7 +4,13 @@
 
 ## Build Setup
 
+
+
 ``` bash
+
+# Echart
+npm i v-charts echarts -S
+
 # install dependencies
 npm install
 
